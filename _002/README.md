@@ -2,7 +2,7 @@
 
 A numeric array 
 
-## Intantiating a numeric array
+## Instantiating a numeric array
 
 
 ```java

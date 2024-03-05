@@ -12,6 +12,7 @@ public class PrimerFactor {
                 i = 1;
                 System.out.println("Before continue " + i);
                 continue;
+
             }
         }
         return newArray;

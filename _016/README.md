@@ -5,6 +5,18 @@ a cycle.
 
 - Fore example, if the array is {2,4,1,0,5,3} and the starting index is 0, the number of steps to complete the cycle would be 6.
 
+### Control Statement
+When you want to iterate n numbers of times till you something happen while iterating 
+
+- While: Would be the best suit for you
+
+```Java
+While(true){
+    if (something happend)
+        return result;
+    //Iterate section
+}
+```
 
 ## You want to run it your-self?
 1. Download JDK(Java Development Kit) [here](https://www.oracle.com/java/technologies/downloads/)
